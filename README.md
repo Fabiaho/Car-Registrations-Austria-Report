@@ -27,7 +27,9 @@ Rows: 12,612
 Columns: 3 (after dropping the "Vehicle type" column)
 Unique brands: 105
 Total registrations: 7,213,112
-Monthly Car Registrations
+
+### Monthly Car Registrations
+
 The number of new car registrations is aggregated by month to provide a comprehensive view, accounting for brands with no registrations in some months.
 
 ### Car Companies
